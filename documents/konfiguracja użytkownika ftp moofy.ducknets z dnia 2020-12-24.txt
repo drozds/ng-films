@@ -1,0 +1,9 @@
+Parametry konta ftp: moofy.ducknets
+
+Dane podstawowe:
+
+login: moofy.ducknets
+Hasło: QAwszedxrfc1!
+host: ftp-ducknets.super-host.pl
+Katalog FTP: /moofy
+SSH: Nie
